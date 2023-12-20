@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/diego-esquivel-morales-a8a206176/" title="LinkedIn" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"       height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/diego-esquivel-morales-a8a206176/" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"       height="40" alt="linkedin logo"  />
   </a>
 </div>
 
