@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @DESQUIMOR<br>👀 I’m interested in  developing innovative and functional user experiences.<br>📚 I’m currently learning to develop mobile interfaces with Flutter.<br>🎲 I have a keen interest in 3D modeling and printing, turning digital designs into tangible objects.</p>
+<p align="left">👋 Hi, I’m @DESQUIMOR<br>👀 I’m interested in  developing innovative and functional user experiences.<br>📚 I’m currently learning to develop mobile interfaces with Flutter.<br>🎲 [RANDOM] I have a keen interest in 3D modeling and printing, turning digital designs into tangible objects.</p>
 
 ###
 
