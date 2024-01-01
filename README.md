@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">Feel free to get in touch with me</h3>
+<h3 align="left">Feel free to get in touch with me!</h3>
 
 ###
 
